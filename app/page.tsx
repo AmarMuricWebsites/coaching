@@ -216,8 +216,8 @@ export default function Home() {
                 </h2>
                 <p className="text-muted-foreground md:text-xl">
                   With over 10 years of experience in fitness and nutrition,
-                  I've helped hundreds of clients transform their bodies and
-                  lives. My approach combines science-based training methods
+                  I&apos;ve helped hundreds of clients transform their bodies
+                  and lives. My approach combines science-based training methods
                   with personalized support to ensure you reach your goals.
                 </p>
                 <div className="space-y-2">

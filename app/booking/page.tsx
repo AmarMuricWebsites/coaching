@@ -126,8 +126,8 @@ export default function BookingPage() {
                 Booking Confirmed!
               </h1>
               <p className="text-muted-foreground">
-                Thank you for booking your session with FitCoach. We've sent a
-                confirmation email with all the details.
+                Thank you for booking your session with FitCoach. Wed&apos;ve
+                sent a confirmation email with all the details.
               </p>
               <div className="bg-muted p-6 rounded-lg text-left space-y-3">
                 <div className="flex justify-between">
@@ -362,7 +362,7 @@ export default function BookingPage() {
                   <CardHeader>
                     <CardTitle>Select Date & Time</CardTitle>
                     <CardDescription>
-                      Choose when you'd like to attend your session
+                      Choose when youd&apos;d like to attend your session
                     </CardDescription>
                   </CardHeader>
                   <CardContent>
